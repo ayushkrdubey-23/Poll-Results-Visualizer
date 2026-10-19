@@ -50,7 +50,12 @@ def generate_synthetic_poll_data(n_rows=1000, output_path="data/polls.csv"):
         date = pd.Timestamp("2026-01-01") + pd.Timedelta(days=np.random.randint(0, 90))
         question = np.random.choice(questions)
         options = options_by_question[question]
-        option_selected = np.random.choice(options, p=[0.4, 0.3, 0.2, 0.1][: len(options)])
+        probs = [0.4, 0.3, 0.2, 0.1][: len(options)]
+        if len(probs) < len(options):
+            remaining = 1.0 - sum(probs)
+            probs = probs + [remaining / (len(options) - len(probs))] * (len(options) - len(probs))
+        probs = [p / sum(probs) for p in probs]
+        option_selected = np.random.choice(options, p=probs)
         region = np.random.choice(regions, p=[0.3, 0.25, 0.25, 0.2])
         age_group = np.random.choice(age_groups, p=[0.25, 0.3, 0.25, 0.15, 0.05])
         gender = np.random.choice(genders, p=[0.45, 0.5, 0.05])

@@ -1,0 +1,97 @@
+============================================================
+POLL RESULTS - SUMMARY INSIGHTS
+============================================================
+
+1. LEADING OPTION
+----------------------------------------
+   Option: Yes
+   Votes: 117
+   Percentage: 11.7%
+
+2. VOTE SHARE SUMMARY
+----------------------------------------
+   Yes: 117 votes (11.7%)
+   Very Satisfied: 107 votes (10.7%)
+   Product A: 102 votes (10.2%)
+   Performance: 89 votes (8.9%)
+   No: 84 votes (8.4%)
+   Satisfied: 76 votes (7.6%)
+   Price: 71 votes (7.1%)
+   Product B: 69 votes (6.9%)
+   Product C: 57 votes (5.7%)
+   Design: 56 votes (5.6%)
+   Neutral: 53 votes (5.3%)
+   Maybe: 48 votes (4.8%)
+   Product D: 26 votes (2.6%)
+   Support: 25 votes (2.5%)
+   Dissatisfied: 20 votes (2.0%)
+
+3. REGION-WISE INSIGHTS
+----------------------------------------
+   Design leads in: East (16 votes, 6.04%)
+   Dissatisfied leads in: North (8 votes, 2.69%)
+   Maybe leads in: North (20 votes, 6.73%)
+   Neutral leads in: South (18 votes, 7.14%)
+   No leads in: East (26 votes, 9.81%)
+   Performance leads in: North (31 votes, 10.44%)
+   Price leads in: East (23 votes, 8.68%)
+   Product A leads in: North (35 votes, 11.78%)
+   Product B leads in: North (22 votes, 7.41%)
+   Product C leads in: West (18 votes, 9.68%)
+   Product D leads in: East (9 votes, 3.4%)
+   Satisfied leads in: North (30 votes, 10.1%)
+   Support leads in: South (9 votes, 3.57%)
+   Very Satisfied leads in: North (33 votes, 11.11%)
+   Yes leads in: East (36 votes, 13.58%)
+
+4. DEMOGRAPHIC INSIGHTS (AGE GROUP)
+----------------------------------------
+   Design most popular among: 36-45 (16 votes, 6.25%)
+   Maybe most popular among: 26-35 (15 votes, 5.64%)
+   Neutral most popular among: 18-25 (18 votes, 6.77%)
+   No most popular among: 18-25 (24 votes, 9.02%)
+   Performance most popular among: 36-45 (31 votes, 12.11%)
+   Price most popular among: 18-25 (23 votes, 8.65%)
+   Product A most popular among: 26-35 (28 votes, 10.53%)
+   Product B most popular among: 26-35 (20 votes, 7.52%)
+   Product C most popular among: 18-25 (16 votes, 6.02%)
+   Product D most popular among: 26-35 (10 votes, 3.76%)
+   Satisfied most popular among: 18-25 (20 votes, 7.52%)
+   Support most popular among: 18-25 (9 votes, 3.38%)
+   Very Satisfied most popular among: 18-25 (31 votes, 11.65%)
+   Yes most popular among: 18-25 (37 votes, 13.91%)
+   Dissatisfied most popular among: 26-35 (10 votes, 3.76%)
+
+5. GENDER-WISE INSIGHTS
+----------------------------------------
+   Design preferred by: Female (33 votes, 6.25%)
+   Dissatisfied preferred by: Female (13 votes, 2.46%)
+   Maybe preferred by: Male (23 votes, 5.41%)
+   Neutral preferred by: Male (24 votes, 5.65%)
+   No preferred by: Female (42 votes, 7.95%)
+   Performance preferred by: Female (52 votes, 9.85%)
+   Price preferred by: Female (42 votes, 7.95%)
+   Product A preferred by: Female (53 votes, 10.04%)
+   Product B preferred by: Male (38 votes, 8.94%)
+   Product C preferred by: Female (34 votes, 6.44%)
+   Product D preferred by: Female (13 votes, 2.46%)
+   Satisfied preferred by: Female (42 votes, 7.95%)
+   Support preferred by: Female (17 votes, 3.22%)
+   Very Satisfied preferred by: Female (54 votes, 10.23%)
+   Yes preferred by: Female (60 votes, 11.36%)
+
+6. TREND OVER TIME
+----------------------------------------
+   Peak day: 2026-01-08 (18 votes)
+   Lowest day: 2026-02-09 (3 votes)
+   Total responses over period: 1000
+
+7. RECOMMENDATIONS
+----------------------------------------
+   - Focus on Yes as it is the most preferred option (11.7% of votes).
+   - Target marketing efforts in East region which shows highest engagement.
+   - Tailor messaging for 18-25 age group which has the highest response rate.
+
+============================================================
+END OF INSIGHTS REPORT
+============================================================
