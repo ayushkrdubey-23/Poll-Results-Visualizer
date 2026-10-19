@@ -97,7 +97,7 @@ Poll-Results-Visualizer/
 
 ```powershell
 # 1. Clone the repository
-git clone https://github.com/your-username/Poll-Results-Visualizer.git
+git clone https://github.com/ayushkrdubey-23/Poll-Results-Visualizer.git
 cd Poll-Results-Visualizer
 
 # 2. Create and activate virtual environment
